@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<root>
+  <obj name="Me" trigger=".">
+    <item name="ActiveControl" obj="Control" trigger="." img="unknown">ActiveControl</item>
+    <item name="AutoDraw" obj="Boolean" trigger="=" img="chip">AutoDraw</item>
+    <item name="BackColor" obj="" trigger="" img="win">BackColor</item>
+    <item name="BorderStyle" obj="" trigger="" img="pad">BorderStyle</item>
+    <item name="Caption" obj="" trigger="" img="prop">Caption</item>
+    <item name="Circle" obj="" trigger="" img="sub">Circle</item>
+    <item name="ClipControls" obj="" trigger="" img="prop">ClipControls</item>
+    <item name="Cls" obj="" trigger="" img="sub">Cls</item>
+    <item name="ControlBox" obj="" trigger="" img="prop">ControlBox</item>
+    <item name="Controls" obj="Control" trigger="." img="prop">Controls</item>
+    <item name="Count" obj="" trigger="" img="prop">Count</item>
+    <item name="CurrentX" obj="" trigger="" img="prop">CurrentX</item>
+    <item name="CurrentY" obj="" trigger="" img="prop">CurrentY</item>
+    <item name="DrawMode" obj="" trigger="" img="prop">DrawMode</item>
+    <item name="DrawStyle" obj="" trigger="" img="prop">DrawStyle</item>
+    <item name="DrawWidth" obj="" trigger="" img="prop">DrawWidth</item>
+    <item name="Enabled" obj="Boolean" trigger="=" img="prop">Enabled</item>
+    <item name="FillColor" obj="" trigger="" img="prop">FillColor</item>
+    <item name="FillStyle" obj="" trigger="" img="prop">FillStyle</item>
+    <item name="Font" obj="Font" trigger="." img="prop">Font</item>
+    <item name="FontBold" obj="Boolean" trigger="=" img="prop">FontBold</item>
+    <item name="FontItalic" obj="Boolean" trigger="=" img="prop">FontItalic</item>
+    <item name="FontSize" obj="" trigger="" img="prop">FontSize</item>
+    <item name="FontName" obj="" trigger="" img="prop">FontName</item>
+    <item name="FontStrikethru" obj="Boolean" trigger="=" img="prop">FontStrikethru</item>
+    <item name="FontTransparent" obj="Boolean" trigger="=" img="prop">FontTransparent</item>
+    <item name="FontUnderline" obj="Boolean" trigger="=" img="prop">FontUnderline</item>
+    <item name="ForeColor" obj="" trigger="" img="prop">ForeColor</item>
+    <item name="HasDC" obj="" trigger="" img="prop">HasDC</item>
+    <item name="hDC" obj="" trigger="" img="prop">hDC</item>
+    <item name="Height" obj="" trigger="" img="prop">Height</item>
+    <item name="HelpContextID" obj="" trigger="" img="prop">HelpContextID</item>
+    <item name="Hide" obj="" trigger="" img="sub">Hide</item>
+    <item name="hWnd" obj="" trigger="" img="prop">hWnd</item>
+    <item name="Icon" obj="" trigger="" img="prop">Icon</item>
+    <item name="Image" obj="" trigger="" img="prop">Image</item>
+    <item name="KeyPreview" obj="Boolean" trigger="=" img="prop">KeyPreview</item>
+    <item name="Left" obj="" trigger="" img="prop">Left</item>
+    <item name="LinkMode" obj="" trigger="" img="prop">LinkMode</item>
+    <item name="LinkTopic" obj="" trigger="" img="prop">LinkTopic</item>
+    <item name="MaxButton" obj="" trigger="" img="prop">MaxButton</item>
+    <item name="MinButton" obj="" trigger="" img="prop">MinButton</item>
+    <item name="MouseIcon" obj="" trigger="" img="prop">MouseIcon</item>
+    <item name="MousePointer" obj="" trigger="" img="prop">MousePointer</item>
+    <item name="Move" obj="" trigger="" img="sub">Move</item>
+    <item name="Name" obj="" trigger="" img="prop">Name</item>
+    <item name="OLEDrag" obj="" trigger="" img="sub">OLEDrag</item>
+    <item name="OLEDropMode" obj="" trigger="" img="prop">OLEDropMode</item>
+    <item name="Palette" obj="" trigger="" img="prop">Palette</item>
+    <item name="PaletteMode" obj="" trigger="" img="prop">PaletteMode</item>
+    <item name="Picture" obj="" trigger="" img="prop">Picture</item>
+    <item name="RightToLeft" obj="" trigger="" img="prop">RightToLeft</item>
+    <item name="ScaleHeight" obj="" trigger="" img="prop">ScaleHeight</item>
+    <item name="ScaleLeft" obj="" trigger="" img="prop">ScaleLeft</item>
+    <item name="ScaleMode" obj="" trigger="" img="prop">ScaleMode</item>
+    <item name="ScaleTop" obj="" trigger="" img="prop">ScaleTop</item>
+    <item name="ScaleWidth" obj="" trigger="" img="prop">ScaleWidth</item>
+    <item name="ShowInTaskbar" obj="Boolean" trigger="=" img="prop">ShowInTaskbar</item>
+    <item name="StartUpPosition" obj="" trigger="" img="prop">StartUpPosition</item>
+    <item name="Tag" obj="" trigger="" img="prop">Tag</item>
+    <item name="Top" obj="" trigger="" img="prop">Top</item>
+    <item name="Visible" obj="Boolean" trigger="=" img="prop">Visible</item>
+    <item name="WhatsThisButton" obj="" trigger="" img="prop">WhatsThisButton</item>
+    <item name="WhatsThisHelp" obj="" trigger="" img="prop">WhatsThisHelp</item>
+    <item name="WhatsThisMode" obj="" trigger="" img="prop">WhatsThisMode</item>
+    <item name="Width" obj="" trigger="" img="prop">Width</item>
+    <item name="WindowState" obj="" trigger="" img="prop">WindowState</item>
+    <item name="ZOrder" obj="" trigger="" img="sub">ZOrder</item>
+  </obj>
+  <obj name="Command" trigger=".">
+    <item name="Appearance" obj="" trigger="" img="prop">Appearance</item>
+    <item name="BackColor" obj="" trigger="" img="prop">BackColor</item>
+    <item name="Cancel" obj="Boolean" trigger="=" img="prop">Cancel</item>
+    <item name="Caption" obj="" trigger="" img="prop">Caption</item>
+    <item name="CausesValidation" obj="Boolean" trigger="=" img="prop">CausesValidation</item>
+    <item name="Container" obj="" trigger="" img="prop">Container</item>
+    <item name="Default" obj="Boolean" trigger="=" img="prop">Default</item>
+    <item name="DisabledPicture" obj="" trigger="" img="prop">DisabledPicture</item>
+    <item name="DownPicture" obj="" trigger="" img="prop">DownPicture</item>
+    <item name="Drag" obj="" trigger="" img="sub">Drag</item>
+    <item name="DragIcon" obj="" trigger="" img="prop">DragIcon</item>
+    <item name="DragMode" obj="" trigger="" img="prop">DragMode</item>
+    <item name="Enabled" obj="Boolean" trigger="=" img="prop">Enabled</item>
+    <item name="Font" obj="Font" trigger="." img="prop">Font</item>
+    <item name="FontBold" obj="Boolean" trigger="=" img="prop">FontBold</item>
+    <item name="FontItalic" obj="Boolean" trigger="=" img="prop">FontItalic</item>
+    <item name="FontSize" obj="" trigger="" img="prop">FontSize</item>
+    <item name="FontName" obj="" trigger="" img="prop">FontName</item>
+    <item name="FontStrikethru" obj="Boolean" trigger="=" img="prop">FontStrikethru</item>
+    <item name="FontTransparent" obj="Boolean" trigger="=" img="prop">FontTransparent</item>
+    <item name="FontUnderline" obj="Boolean" trigger="=" img="prop">FontUnderline</item>
+    <item name="Height" obj="" trigger="" img="prop">Height</item>
+    <item name="HelpContextID" obj="" trigger="" img="prop">HelpContextID</item>
+    <item name="hWnd" obj="" trigger="" img="prop">hWnd</item>
+    <item name="Index" obj="" trigger="" img="prop">Index</item>
+    <item name="Left" obj="" trigger="" img="prop">Left</item>
+    <item name="MaskColor" obj="" trigger="" img="prop">MaskColor</item>
+    <item name="MouseIcon" obj="" trigger="" img="prop">MouseIcon</item>
+    <item name="MousePointer" obj="" trigger="" img="prop">MousePointer</item>
+    <item name="Move" obj="" trigger="" img="sub">Move</item>
+    <item name="Name" obj="" trigger="" img="prop">Name</item>
+    <item name="OLEDrag" obj="" trigger="" img="sub">OLEDrag</item>
+    <item name="OLEDropMode" obj="" trigger="" img="prop">OLEDropMode</item>
+    <item name="Parent" obj="Object" trigger="." img="prop">Parent</item>
+    <item name="Refresh" obj="" trigger="" img="sub">Refresh</item>
+    <item name="RightToLeft" obj="Boolean" trigger="=" img="prop">RightToLeft</item>
+    <item name="SetFocus" obj="" trigger="" img="sub">SetFocus</item>
+    <item name="ShowWhatsThis" obj="" trigger="" img="sub">ShowWhatsThis</item>
+    <item name="Style" obj="" trigger="" img="prop">Style</item>
+    <item name="TabIndex" obj="" trigger="" img="prop">TabIndex</item>
+    <item name="TabStop" obj="Boolean" trigger="=" img="prop">TabStop</item>
+    <item name="Tag" obj="" trigger="" img="prop">Tag</item>
+    <item name="ToolTipText" obj="" trigger="" img="prop">ToolTipText</item>
+    <item name="Top" obj="" trigger="" img="prop">Top</item>
+    <item name="UseMaskColor" obj="Boolean" trigger="=" img="prop">UseMaskColor</item>
+    <item name="Value" obj="Boolean" trigger="=" img="prop">Value</item>
+    <item name="Visible" obj="Boolean" trigger="=" img="prop">Visible</item>
+    <item name="WhatsThisHelpID" obj="" trigger="" img="prop">WhatsThisHelpID</item>
+    <item name="Width" obj="" trigger="" img="prop">Width</item>
+    <item name="ZOrder" obj="" trigger="" img="sub">ZOrder</item>
+  </obj>
+  <obj name="Command" trigger="=">
+    <item name="True" obj="" trigger="" img="value">True</item>
+    <item name="False" obj="" trigger="" img="value">False</item>
+  </obj>
+  <obj name="Font" trigger=".">
+    <item name="Bold" obj="Boolean" trigger="=" img="prop">Bold</item>
+    <item name="Charset" obj="" trigger="" img="prop">Charset</item>
+    <item name="Italic" obj="Boolean" trigger="=" img="prop">Italic</item>
+    <item name="Name" obj="" trigger="" img="prop">Name</item>
+    <item name="Size" obj="" trigger="" img="prop">Size</item>
+    <item name="StrikeThru" obj="Boolean" trigger="=" img="prop">StrikeThru</item>
+    <item name="Underline" obj="Boolean" trigger="=" img="prop">Underline</item>
+    <item name="Weight" obj="" trigger="" img="prop">Weight</item>
+  </obj>
+  <obj name="Boolean" trigger="=">
+    <item name="True" obj="" trigger="" img="value">True</item>
+    <item name="False" obj="" trigger=""  img="value">False</item>
+  </obj>
+</root>
